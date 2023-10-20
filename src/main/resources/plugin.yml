@@ -1,0 +1,4 @@
+name: AsyncIO
+version: '${project.version}'
+main: com.gestankbratwurst.asyncio.AsyncIO
+api-version: '1.20'
